@@ -1,6 +1,8 @@
 # Angular E-commerce Application | WEB APPLICATION
-This is a **frontend-driven web application** built using **Angular, Bootstrap, and JSON Server** (with `db.json`). The project showcases my ability to develop a **full-fledged frontend system** integrated with a **mock backend**, including **product management, cart functionality, and dynamic routing**. It follows a **modular and scalable architecture**, ensuring maintainability and smooth performance.  
 <br>
+This is a frontend-driven web application built using Angular, Bootstrap, and JSON Server (with `db.json`). The project showcases my ability to develop a full-fledged frontend system integrated with a mock backend, including product management, cart functionality, and dynamic routing. It follows a modular and scalable architecture, ensuring maintainability and smooth performance.  
+<br>
+
 ---
 
 ### **📌 Project Overview**  
