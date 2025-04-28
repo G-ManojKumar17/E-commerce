@@ -38,3 +38,5 @@ In this project, I developed a **dynamic e-commerce application** using **Angula
 This project showcases my ability to **design and develop a complete frontend system**, integrate a **mock backend** for simulating real-world applications, and create **dynamic, responsive, and interactive user experiences** using **Angular**.  
 
 This project reflects my skills in **frontend development, API integration, modular architecture, and creating scalable and user-friendly e-commerce applications** using modern tools and technologies. 🚀
+
+Reference: https://www.youtube.com/@codestepbystep
